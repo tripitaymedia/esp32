@@ -1,0 +1,13 @@
+## Requirements
+
+1. PHP enabled hosting.
+2. MySQL|Maria database.
+
+
+## Setup
+
+1. Copy contents of directory to web server.
+2. Configure web server to use `htdocs` directory as root.
+3. Edit init.php and add database configuration.
+
+
